@@ -65,7 +65,7 @@ for key in crop_dir.keys():
     # write video
     print(np.array(video_array).shape)
     video_path = ".".join(save_video_path.split(".")[:-1])
-    fourcc = cv2.VideoWriter_fourcc(*'MP4V')  # XVID
+    fourcc = cv2.VideoWriter_fourcc(*'mp4v')  # XVID
     writer = cv2.VideoWriter(
         video_path + '.mp4', fourcc, cap.get(5), cropped.shape[:2]
     )
