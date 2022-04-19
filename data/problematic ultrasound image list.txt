@@ -1,0 +1,8 @@
+problematic images:
+1. Reg_com_acquired_paper.png
+2. Reg-Youtube-Video_902_Lung_POCUS-left.mp4
+3. Pneu_air_bronchogram_com_acquired_paper.png
+4. Cov_siemens_1.png
+5. Cov_siemens_2.png
+6. Cov_siemens_3.png
+7. Reg_siemens_vid_3.mp4
