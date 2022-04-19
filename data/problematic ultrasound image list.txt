@@ -6,3 +6,4 @@ problematic images:
 5. Cov_siemens_2.png
 6. Cov_siemens_3.png
 7. Reg_siemens_vid_3.mp4
+8. Pneu_Youtube_case.mp4
